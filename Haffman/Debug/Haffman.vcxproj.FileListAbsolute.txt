@@ -1,0 +1,2 @@
+C:\Users\Nikitos\source\repos\Haffman\Debug\Haffman.exe
+C:\Users\Nikitos\source\repos\Haffman\Debug\Haffman.pdb
